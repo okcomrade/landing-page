@@ -14,5 +14,10 @@
   "bugs": {
     "url": "https://github.com/okcomrade/landing-page/issues"
   },
-  "homepage": "https://github.com/okcomrade/landing-page#readme"
+  "homepage": "https://github.com/okcomrade/landing-page#readme",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-aws-s3": "0.14.5",
+    "grunt-contrib-copy": "1.0.0"
+  }
 }
