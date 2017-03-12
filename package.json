@@ -1,0 +1,18 @@
+{
+  "name": "okcomrade-landing-page",
+  "version": "0.1.0",
+  "description": "okcomrade langing page (newsletter signup)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okcomrade/landing-page.git"
+  },
+  "author": "ZornCo LLC",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/okcomrade/landing-page/issues"
+  },
+  "homepage": "https://github.com/okcomrade/landing-page#readme"
+}
